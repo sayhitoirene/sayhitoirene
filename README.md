@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, Irene here!</h2>
 <h3 align="center">your friendly neighbourhood comp science enthusiast.....welcome to my GitHub profile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhitoirene&label=Profile%20views&color=#0e75b6&style=flat" alt="sayhitoirene" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayhitoirene&label=Profile%20views&color=0e75b6&style=flat" alt="sayhitoirene" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhitoirene" alt="sayhitoirene" /></a> </p>
 
