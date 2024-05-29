@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayhitoirene" alt="sayhitoirene" /></a> </p>
 
-- 🌱 I’m currently learning **about Generative AI**
-
 - ⚡ Fun fact **I can recite lines from the Harry Potter books and movies by heart.**
 
 <h3 align="left">Connect with me:</h3>
